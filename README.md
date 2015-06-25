@@ -12,3 +12,7 @@ Number of diseases: 148
 Number of symptoms: 805
 
 Graph structure: The disease nodes point to the symptom nodes.
+
+Currently clustered graph:
+
+![](https://github.com/deshna/symptom-X-/master/images/untitled4.png)

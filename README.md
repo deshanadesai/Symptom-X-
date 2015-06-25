@@ -15,4 +15,4 @@ Graph structure: The disease nodes point to the symptom nodes.
 
 Currently clustered graph:
 
-![](https://github.com/deshna/symptom-X-/master/images/untitled4.png)
+![](https://github.com/Deshna/Symptom-X-/blob/master/Images/Untitled4.png)

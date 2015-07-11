@@ -1,0 +1,66 @@
+Id,Label,Attribute
+suicidal,suicidal,Symptom
+hallucinations auditory,hallucinations auditory,Symptom
+irritable mood,irritable mood,Symptom
+agitation,agitation,Symptom
+chronic alcoholic intoxication,chronic alcoholic intoxication,Disease
+paranoia,paranoia,Disease
+psychotic disorder,psychotic disorder,Disease
+depressive disorder,depressive disorder,Disease
+schizophrenia,schizophrenia,Disease
+bipolar disorder,bipolar disorder,Disease
+anxiety state,anxiety state,Disease
+depression mental,depression mental,Disease
+dependence,dependence,Disease
+delusion,delusion,Disease
+manic disorder,manic disorder,Disease
+suicide attempt,suicide attempt,Disease
+delirium,delirium,Disease
+chronic alcoholic intoxication,chronic alcoholic intoxication,Disease
+paranoia,paranoia,Disease
+psychotic disorder,psychotic disorder,Disease
+depressive disorder,depressive disorder,Disease
+schizophrenia,schizophrenia,Disease
+bipolar disorder,bipolar disorder,Disease
+anxiety state,anxiety state,Disease
+depression mental,depression mental,Disease
+personality disorder,personality disorder,Disease
+delusion,delusion,Disease
+dementia,dementia,Disease
+manic disorder,manic disorder,Disease
+suicide attempt,suicide attempt,Disease
+hepatitis C,hepatitis C,Disease
+delirium,delirium,Disease
+chronic alcoholic intoxication,chronic alcoholic intoxication,Disease
+paranoia,paranoia,Disease
+psychotic disorder,psychotic disorder,Disease
+depressive disorder,depressive disorder,Disease
+schizophrenia,schizophrenia,Disease
+bipolar disorder,bipolar disorder,Disease
+anxiety state,anxiety state,Disease
+depression mental,depression mental,Disease
+personality disorder,personality disorder,Disease
+delusion,delusion,Disease
+suicide attempt,suicide attempt,Disease
+carcinoma of lung,carcinoma of lung,Disease
+malignant neoplasm of lung,malignant neoplasm of lung,Disease
+hypothyroidism,hypothyroidism,Disease
+paranoia,paranoia,Disease
+psychotic disorder,psychotic disorder,Disease
+depressive disorder,depressive disorder,Disease
+schizophrenia,schizophrenia,Disease
+Alzheimer's disease,Alzheimer's disease,Disease
+bipolar disorder,bipolar disorder,Disease
+pneumothorax,pneumothorax,Disease
+confusion,confusion,Disease
+anxiety state,anxiety state,Disease
+depression mental,depression mental,Disease
+dependence,dependence,Disease
+parkinson disease,parkinson disease,Disease
+personality disorder,personality disorder,Disease
+glaucoma,glaucoma,Disease
+delusion,delusion,Disease
+dementia,dementia,Disease
+suicide attempt,suicide attempt,Disease
+carcinoma of lung,carcinoma of lung,Disease
+malignant neoplasm of lung,malignant neoplasm of lung,Disease

@@ -1,0 +1,19 @@
+suicidal,feeling suicidal,hallucinations auditory
+suicidal,irritable mood,hallucinations auditory
+suicidal,irritable mood,agitation
+suicidal,hallucinations auditory,agitation
+suicidal,hallucinations auditory,worry
+irritable mood,hallucinations auditory,agitation
+irritable mood,hallucinations auditory,worry
+irritable mood,hallucinations auditory,sleeplessness
+irritable mood,agitation,worry
+hallucinations auditory,agitation,worry
+nausea,vomiting,pain abdominal
+nausea,vomiting,diarrhea
+nausea,pain abdominal,pain
+nausea,pain abdominal,diarrhea
+shortness of breath,sweating increased,pain chest
+shortness of breath,sweating increased,sweat
+shortness of breath,pain chest,sweat
+shortness of breath,orthopnea,rale
+sweating increased,pain chest,sweat

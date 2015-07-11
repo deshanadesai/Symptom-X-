@@ -1,0 +1,62 @@
+Source,Target
+chronic alcoholic intoxication,suicidal
+paranoia,suicidal
+psychotic disorder,suicidal
+depressive disorder,suicidal
+schizophrenia,suicidal
+bipolar disorder,suicidal
+anxiety state,suicidal
+depression mental,suicidal
+dependence,suicidal
+delusion,suicidal
+manic disorder,suicidal
+suicide attempt,suicidal
+delirium,suicidal
+chronic alcoholic intoxication,hallucinations auditory
+paranoia,hallucinations auditory
+psychotic disorder,hallucinations auditory
+depressive disorder,hallucinations auditory
+schizophrenia,hallucinations auditory
+bipolar disorder,hallucinations auditory
+anxiety state,hallucinations auditory
+depression mental,hallucinations auditory
+personality disorder,hallucinations auditory
+delusion,hallucinations auditory
+dementia,hallucinations auditory
+manic disorder,hallucinations auditory
+suicide attempt,hallucinations auditory
+hepatitis C,hallucinations auditory
+delirium,hallucinations auditory
+chronic alcoholic intoxication,irritable mood
+paranoia,irritable mood
+psychotic disorder,irritable mood
+depressive disorder,irritable mood
+schizophrenia,irritable mood
+bipolar disorder,irritable mood
+anxiety state,irritable mood
+depression mental,irritable mood
+personality disorder,irritable mood
+delusion,irritable mood
+suicide attempt,irritable mood
+carcinoma of lung,irritable mood
+malignant neoplasm of lung,irritable mood
+hypothyroidism,agitation
+paranoia,agitation
+psychotic disorder,agitation
+depressive disorder,agitation
+schizophrenia,agitation
+Alzheimer's disease,agitation
+bipolar disorder,agitation
+pneumothorax,agitation
+confusion,agitation
+anxiety state,agitation
+depression mental,agitation
+dependence,agitation
+parkinson disease,agitation
+personality disorder,agitation
+glaucoma,agitation
+delusion,agitation
+dementia,agitation
+suicide attempt,agitation
+carcinoma of lung,agitation
+malignant neoplasm of lung,agitation
